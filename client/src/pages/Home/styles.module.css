@@ -1,0 +1,26 @@
+.title {
+    margin-bottom: 4px;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    line-height: 1.5715;
+}
+
+.title:hover{
+    color: rgb(117, 117, 136) !important;
+}
+
+.description {
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+}
+
+.description:hover{
+    color: rgb(117, 117, 136);
+}
+
+
+
+
+
+  

@@ -1,0 +1,29 @@
+.title {
+    line-height: 1.5715;
+    color: rgb(32, 27, 27) !important;
+    font-size: 2.0rem !important;
+    margin: 10px;
+}
+
+.description {
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: 1.12rem;
+    margin: 10px;
+}
+
+.content {
+    justify-content: center !important;
+    background-color: rgb(255, 241, 241);
+    border: 1px solid crimson;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 25px;
+}
+
+.centerItem{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: left;
+}

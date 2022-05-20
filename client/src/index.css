@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(37, 37, 71);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,
+    sans-serif;
+}
+
+.ant-form-item{
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
