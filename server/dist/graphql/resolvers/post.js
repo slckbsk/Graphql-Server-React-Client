@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.Post=void 0;var Post={user:function user(parent,__,_ref){var db=_ref.db;return db.users.find(function(user){return user.id===parent.user_id})},comments:function comments(parent,__,_ref2){var db=_ref2.db;return db.comments.filter(function(comment){return comment.post_id===parent.id})}};exports.Post=Post;
